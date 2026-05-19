@@ -1,0 +1,11 @@
+{
+    "latestVersion":  "1.0.9",
+    "versionCode":  34,
+    "apkUrl":  "https://github.com/aiu487222-code/lector-config/releases/download/v1.0.9/lector-v1.0.9.apk",
+    "apkSizeBytes":  164857057,
+    "apkSha256":  "ec8cfcc6f671aea842342d7d9552972de963c2e5a3ee4087810929e7ba5485ee",
+    "releaseNotes":  "- Sistema de actualizaciones automaticas\n- Recibis avisos cuando hay version nueva\n- Actualizacion con un toque, sin reinstalar\n- Comentarios y resenas con voto util/no util\n- Reportar comentarios inapropiados\n- Tienda con Libro del dia y Top por grado\n- Continua leyendo desde la Tienda\n- Lector con tema oscuro y sepia sin franjas blancas",
+    "releasedAt":  1779204269470,
+    "forceUpdate":  false,
+    "minSupportedVersion":  "1.0.0"
+}
