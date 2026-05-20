@@ -1,11 +1,11 @@
 {
-    "latestVersion":  "1.0.9.1",
-    "versionCode":  45,
-    "apkUrl":  "https://github.com/aiu487222-code/lector-config/releases/download/v1.0.9.1/lector-v1.0.9.1.apk",
+    "latestVersion":  "1.0.9.2",
+    "versionCode":  47,
+    "apkUrl":  "https://github.com/aiu487222-code/lector-config/releases/download/v1.0.9.2/lector-v1.0.9.2.apk",
     "apkSizeBytes":  164889825,
-    "apkSha256":  "eb9427bdb1fdfa624f3e316ceeb232d587552b587bfbb97ab31087a61f1cca0c",
-    "releaseNotes":  "🎉 ¡Nueva versión de Lector v1.0.9.1!\n\n☁️ Tu biblioteca en la nube \n\n⚙️ Ajustes accesibles desde el inicio \n\n🐛 Reporte de reseñas arreglado \n\n📡 Errores de red más claros \n\n✨ Activación con mejor diseño",
-    "releasedAt":  1779290763879,
+    "apkSha256":  "6227c8b6511fab59c00738a5b8e185d39344b4117cc2fc5e9b4c65bb7954f827",
+    "releaseNotes":  "🎉 ¡Nueva versión de Lector v1.0.9.2!\n\n☁️ Tu biblioteca en la nube — si borras la app o cambias de celular, al volver a entrar con tu código recuperas todos tus libros y tu progreso.\n\n🔑 Recupera tu código aunque borres datos — entra a Configuración y tu código sigue ahí, aunque la app no esté activada.\n\n⚙️ Configuración accesible desde el inicio — toca la engranita en la pantalla de activación para verla.\n\n🔔 Recordatorio de actualización — si pones \"Ahora no\", una barrita arriba en Biblioteca y Tienda te recuerda que hay versión nueva.\n\n📖 Acerca de Lector — nueva pantalla con tu versión y un botón para buscar actualizaciones a mano.\n\n🐛 Reporte de reseñas arreglado — ya no se traba la ventana ni sale \"HTTP 500\" al enviar.\n\n📡 Errores de red más claros — aparece \"Error de conexión\" en vez de mensajes técnicos.\n\n✨ Activación con mejor diseño — sin huecos vacíos arriba del logo.",
+    "releasedAt":  1779294889257,
     "forceUpdate":  false,
     "minSupportedVersion":  "1.0.0"
 }
