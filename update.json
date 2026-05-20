@@ -1,11 +1,11 @@
 {
     "latestVersion":  "1.0.9.1",
-    "versionCode":  42,
+    "versionCode":  45,
     "apkUrl":  "https://github.com/aiu487222-code/lector-config/releases/download/v1.0.9.1/lector-v1.0.9.1.apk",
-    "apkSizeBytes":  164873441,
-    "apkSha256":  "1b4f51f1847f4df8e99aa0354dcbfc039b8c6b85a993d6b11ed7e502340812d1",
+    "apkSizeBytes":  164889825,
+    "apkSha256":  "eb9427bdb1fdfa624f3e316ceeb232d587552b587bfbb97ab31087a61f1cca0c",
     "releaseNotes":  "🎉 ¡Nueva versión de Lector v1.0.9.1!\n\n☁️ Tu biblioteca en la nube \n\n⚙️ Ajustes accesibles desde el inicio \n\n🐛 Reporte de reseñas arreglado \n\n📡 Errores de red más claros \n\n✨ Activación con mejor diseño",
-    "releasedAt":  1779234757551,
+    "releasedAt":  1779290763879,
     "forceUpdate":  false,
     "minSupportedVersion":  "1.0.0"
 }
