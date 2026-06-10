@@ -3,24 +3,28 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Lector - Foro</title>
+<title>Lector</title>
+<script>
+  (function(){
+    var q = new URLSearchParams(location.search);
+    var p = q.get('p') || q.get('id') || '';
+    if (p) { location.replace('lector://forum/post/' + p); }
+  })();
+</script>
 <style>
  body{background:#0d0d0d;color:#fff;font-family:sans-serif;text-align:center;padding:48px 20px}
- h2{font-weight:600}
  .btn{display:inline-block;background:#FF8C00;color:#fff;text-decoration:none;padding:14px 28px;border-radius:10px;font-weight:bold;margin-top:20px;font-size:16px}
  .muted{color:#aaa;font-size:14px;margin-top:24px}
 </style>
 </head>
 <body>
  <h2>Abriendo en Lector...</h2>
- <p class="muted">Si la app no se abre sola, toca el boton:</p>
- <a id="open" class="btn" href="#">Abrir en Lector</a>
+ <a id="o" class="btn" href="#">Abrir en Lector</a>
  <p class="muted">No tienes la app? Pidela a tu profe.</p>
  <script>
-   var id = (new URLSearchParams(location.search)).get('id') || '';
-   var deep = 'lector://forum/post/' + id;
-   document.getElementById('open').setAttribute('href', deep);
-   if (id) { setTimeout(function(){ window.location.href = deep; }, 500); }
+   var q2 = new URLSearchParams(location.search);
+   var p2 = q2.get('p') || q2.get('id') || '';
+   document.getElementById('o').setAttribute('href','lector://forum/post/'+p2);
  </script>
 </body>
 </html>
