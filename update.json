@@ -1,11 +1,11 @@
 {
-    "latestVersion":  "1.0.9.2",
-    "versionCode":  47,
-    "apkUrl":  "https://github.com/aiu487222-code/lector-config/releases/download/v1.0.9.2/lector-v1.0.9.2.apk",
-    "apkSizeBytes":  164889825,
-    "apkSha256":  "6227c8b6511fab59c00738a5b8e185d39344b4117cc2fc5e9b4c65bb7954f827",
-    "releaseNotes":  "🎉 ¡Nueva versión de Lector v1.0.9.2!\n\n☁️ Tu biblioteca en la nube — si borras la app o cambias de celular, al volver a entrar con tu código recuperas todos tus libros y tu progreso.\n\n🔑 Recupera tu código aunque borres datos — entra a Configuración y tu código sigue ahí, aunque la app no esté activada.\n\n⚙️ Configuración accesible desde el inicio — toca la engranita en la pantalla de activación para verla.\n\n🔔 Recordatorio de actualización — si pones \"Ahora no\", una barrita arriba en Biblioteca y Tienda te recuerda que hay versión nueva.\n\n📖 Acerca de Lector — nueva pantalla con tu versión y un botón para buscar actualizaciones a mano.\n\n🐛 Reporte de reseñas arreglado — ya no se traba la ventana ni sale \"HTTP 500\" al enviar.\n\n📡 Errores de red más claros — aparece \"Error de conexión\" en vez de mensajes técnicos.\n\n✨ Activación con mejor diseño — sin huecos vacíos arriba del logo.",
-    "releasedAt":  1779294889257,
+    "latestVersion":  "1.0.18.13",
+    "versionCode":  87,
+    "apkUrl":  "https://github.com/aiu487222-code/lector-config/releases/download/v1.0.18.13/lector-v1.0.18.13.apk",
+    "apkSizeBytes":  68829311,
+    "apkSha256":  "3ddf8cc1b1dc61345372265d341d554a6846e475d22615b96ca171dc3f4d3d2e",
+    "releaseNotes":  "🎉 ¡Nueva versión de Lector v1.0.9.3!\n\n☁️ Sincronización completa de biblioteca — Si borras la app o cambias de celular, al volver con tu código TODOS tus libros se vuelven a descargar automáticamente con la página exacta donde te quedaste.\n\n🔑 Recupera tu código aunque borres datos — entra a Configuración y tu código sigue ahí, recuperado del servidor.\n\n⏸️ Cancelar descarga de actualización — ahora podes parar la descarga del APK si quieres seguir después.\n\n🧹 Configuración más limpia — solo lo que necesitas: nombre visible, código y sincronización.\n\n🐛 Reporte de reseñas arreglado — con diagnóstico completo si vuelve a fallar.\n\n📡 Errores de red más claros — \"Error de conexión\" en vez de mensajes técnicos.",
+    "releasedAt":  1781274873857,
     "forceUpdate":  false,
     "minSupportedVersion":  "1.0.0"
 }
