@@ -1,11 +1,11 @@
 {
     "latestVersion":  "1.0.18.17",
-    "versionCode":  101,
+    "versionCode":  103,
     "apkUrl":  "https://github.com/aiu487222-code/lector-config/releases/download/v1.0.18.17/lector-v1.0.18.17.apk",
     "apkSizeBytes":  68829355,
-    "apkSha256":  "f3fb42ce05419f8964b14cffdecac068c528cea0f14ad3472c26513cab672240",
+    "apkSha256":  "cdc723fe4ba7472ebb866233dfe1428d7f6626d53a430b3d318737e601f291dd",
     "releaseNotes":  "🎉 ¡Nueva versión de Lector v1.0.9.3!\n\n☁️ Sincronización completa de biblioteca — Si borras la app o cambias de celular, al volver con tu código TODOS tus libros se vuelven a descargar automáticamente con la página exacta donde te quedaste.\n\n🔑 Recupera tu código aunque borres datos — entra a Configuración y tu código sigue ahí, recuperado del servidor.\n\n⏸️ Cancelar descarga de actualización — ahora podes parar la descarga del APK si quieres seguir después.\n\n🧹 Configuración más limpia — solo lo que necesitas: nombre visible, código y sincronización.\n\n🐛 Reporte de reseñas arreglado — con diagnóstico completo si vuelve a fallar.\n\n📡 Errores de red más claros — \"Error de conexión\" en vez de mensajes técnicos.",
-    "releasedAt":  1786073740232,
+    "releasedAt":  1786112970762,
     "forceUpdate":  false,
     "minSupportedVersion":  "1.0.0"
 }
