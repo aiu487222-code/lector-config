@@ -1,11 +1,11 @@
 {
-    "latestVersion":  "1.0.18.33",
-    "versionCode":  135,
-    "apkUrl":  "https://github.com/aiu487222-code/lector-config/releases/download/v1.0.18.33/lector-v1.0.18.33.apk",
+    "latestVersion":  "1.0.18.34",
+    "versionCode":  137,
+    "apkUrl":  "https://github.com/aiu487222-code/lector-config/releases/download/v1.0.18.34/lector-v1.0.18.34.apk",
     "apkSizeBytes":  68894895,
-    "apkSha256":  "410d528dff97096e7ce26531399ded70432f741d9cab65df9ea34b43d0194405",
+    "apkSha256":  "29a2a37f3fee38133dfc83a68f4877a675fdb2540e235168bd280d676b59486f",
     "releaseNotes":  "🎉 ¡Nueva versión de Lector!\n\n☁️ Sincronización completa de biblioteca.\n\n⏸️ Cancelar descarga de actualización — ahora podes parar la descarga del APK si quieres seguir después.\n\n🧹 Configuración más limpia.\n\n🐛 Reporte de reseñas arreglado.\n\n📡 Errores de red más claros.",
-    "releasedAt":  1788393285407,
+    "releasedAt":  1788412013395,
     "forceUpdate":  false,
     "minSupportedVersion":  "1.0.0"
 }
